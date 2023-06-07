@@ -15,7 +15,7 @@ $ npm install or yarn install
 ```bash
 $ npm start or yarn start
 ```
-![메인페이지](https://github.com/KimSeoYeon23/etherscan_api_sprint/assets/115128505/e778262d-45f4-4cd1-aaa9-7d56f448b117)
+![메인페이지](https://github.com/KimSeoYeon23/etherscan_api_sprint/assets/115128505/fa124e9e-946a-44bf-a3eb-c6621051d8df)
 <br/>
 **Get Balance**  
 `지갑 주소 : ` 메타마스크 지갑 주소 입력  
