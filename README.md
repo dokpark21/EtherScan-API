@@ -8,8 +8,12 @@
 ## Client - React.js
 ```bash
 $ cd client
-$ npm install
-$ npm start
+```
+```bash
+$ npm install or yarn install
+```
+```bash
+$ npm start or yarn start
 ```
 ![메인페이지](https://github.com/KimSeoYeon23/etherscan_api_sprint/assets/115128505/e778262d-45f4-4cd1-aaa9-7d56f448b117)
 <br/>
@@ -50,10 +54,10 @@ $ npm start
 $ cd server
 ```
 ```bash
-$ npm install
+$ npm install or yarn install
 ```
 
 **Node.js Server Start - localhost:8080**
 ```bash
-$ npm start
+$ npm start or yarn start
 ```
