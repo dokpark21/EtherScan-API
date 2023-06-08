@@ -11,7 +11,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cors());
 app.use(bodyParser.json());
 
-const endpoint = `https://api-goerli.etherscan.io/api?module=account`;
+const endpoint = `https://api-sepolia.etherscan.io/api?module=account`;
 
 // 현재 잔액 조회
 app.post('/getBalance', async (req, res) => {
